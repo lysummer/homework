@@ -5,6 +5,9 @@ import (
 )
 
 func main() {
+	//aaaa
+	//aaaaaadadad
+	//dadad
 	mymap := make(map[string]int)
 	mymap["李"] = 5
 	mymap["张三"] = 1
